@@ -1,0 +1,97 @@
+commit 2d664eb0a9e90c1739d5d286c8d4c2a82ce77dee
+Author: William <william.ho19@imperial.ac.uk>
+Date:   Fri Mar 24 13:51:30 2023 +0000
+
+    Clearer brief for function
+
+M	ShallowWater.h
+
+commit 959a1c55350bfd9617e312370bb56af497e10358
+Author: William <william.ho19@imperial.ac.uk>
+Date:   Fri Mar 24 13:50:48 2023 +0000
+
+    Cleaning up
+
+M	ShallowWater.cpp
+
+commit 3a80dd85499f832610155b55160f5d4b85066035
+Author: William <william.ho19@imperial.ac.uk>
+Date:   Thu Mar 23 06:26:58 2023 +0000
+
+    Pre computing
+
+M	ShallowWater.cpp
+
+commit 8a206e9016c2efb6463949b418583236ad66d89c
+Author: William <william.ho19@imperial.ac.uk>
+Date:   Thu Mar 23 04:15:58 2023 +0000
+
+    Parsing issue solved
+
+M	main.cpp
+
+commit 2a18a8cc64a755c8ae9960cb4fec5d3b14dc2bbf
+Author: William <william.ho19@imperial.ac.uk>
+Date:   Thu Mar 23 02:46:18 2023 +0000
+
+    Testing loop
+
+M	ShallowWater.cpp
+
+commit 9a266254c9f742425ccadfd3dbc6e96b5daff36c
+Author: William <william.ho19@imperial.ac.uk>
+Date:   Thu Mar 23 02:42:45 2023 +0000
+
+    No NaN values for BLAS
+
+M	ShallowWater.cpp
+
+commit ae656e620686da01a332445cfcf1f5249c1c60b4
+Author: William <william.ho19@imperial.ac.uk>
+Date:   Thu Mar 23 02:13:47 2023 +0000
+
+    OpenMP makes NaN w/ BLAS
+
+M	ShallowWater.cpp
+
+commit 7da8e6410555eb96d54e16afb83727f3a76a8df1
+Author: William <william.ho19@imperial.ac.uk>
+Date:   Thu Mar 23 02:01:41 2023 +0000
+
+    NAN after 66s
+
+M	ShallowWater.cpp
+
+commit bfcc1d4cab5056e9266c6762d89914aa8b9f8e0a
+Author: William <william.ho19@imperial.ac.uk>
+Date:   Thu Mar 23 01:13:25 2023 +0000
+
+    Made loop more consistent
+
+M	ShallowWater.cpp
+
+commit 01545bcd0e1bde13906863c8557fedded3bab4a9
+Author: William <william.ho19@imperial.ac.uk>
+Date:   Thu Mar 23 01:11:45 2023 +0000
+
+    fixed initial conditions
+
+M	ShallowWater.cpp
+
+commit ab7356115c735293f03d85c595b9f9b9e92176a6
+Author: William <william.ho19@imperial.ac.uk>
+Date:   Thu Mar 23 01:09:19 2023 +0000
+
+    Indexing issue
+
+M	ShallowWater.cpp
+
+commit 94f15bea7e46c8d71842b222f463ba6661d0c4b9
+Author: William <william.ho19@imperial.ac.uk>
+Date:   Thu Mar 23 01:04:50 2023 +0000
+
+    Testing stuff
+
+A	ShallowWater.cpp
+A	ShallowWater.h
+A	main.cpp
